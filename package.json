@@ -1,0 +1,24 @@
+{
+  "name": "Tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenzo7664/Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenzo7664/Tailwind/issues"
+  },
+  "homepage": "https://github.com/kenzo7664/Tailwind#readme",
+  "dependencies": {
+    "gitignore": "^0.7.0",
+    "tailwindcss": "^2.2.16"
+  }
+}
